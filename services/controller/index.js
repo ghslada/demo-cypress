@@ -42,6 +42,12 @@ app.get('/shipping/:cep', (req, res, next) => {
     );
 });
 
+// app.get('/cypress/videos', (req, res, next) => {
+
+
+
+// });
+
 /**
  * Inicia o router
  */
